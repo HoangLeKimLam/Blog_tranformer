@@ -1579,8 +1579,7 @@ Nếu bạn muốn đi sâu hơn:
 12. Viblo. *Tìm hiểu về kiến trúc Transformer*. https://viblo.asia/p/tim-hieu-ve-kien-truc-transformer-Az45byM6lxY
 13. 200Lab. *Transformer — Công nghệ đằng sau ChatGPT*. https://200lab.io/blog/transformer-cong-nghe-dang-sau-chatgpt-va-bard
 
-### Slide tham khảo
-14. CS-UIT AI Club. *Attention Is All You Need — Presentation slides* (bao gồm phần mở rộng BERT & GPT).
+
 
 ### Nguồn hình ảnh
 - Hình kiến trúc Transformer, Attention, Positional Encoding: Jay Alammar (CC BY-NC-SA 4.0)
